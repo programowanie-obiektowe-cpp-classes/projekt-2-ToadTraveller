@@ -1,0 +1,3 @@
+/home/denturov/Desktop/advent-of-code/7/build/CMakeFiles/Advent7.dir
+/home/denturov/Desktop/advent-of-code/7/build/CMakeFiles/edit_cache.dir
+/home/denturov/Desktop/advent-of-code/7/build/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/Advent4.dir/main.cpp.o CMakeFiles/Advent4.dir/data_read.cpp.o -o Advent4 

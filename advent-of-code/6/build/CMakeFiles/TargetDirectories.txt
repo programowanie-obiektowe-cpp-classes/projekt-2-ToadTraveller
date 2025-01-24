@@ -1,0 +1,3 @@
+/home/bimberiev/Desktop/advent-of-code/6/build/CMakeFiles/Advent6.dir
+/home/bimberiev/Desktop/advent-of-code/6/build/CMakeFiles/edit_cache.dir
+/home/bimberiev/Desktop/advent-of-code/6/build/CMakeFiles/rebuild_cache.dir

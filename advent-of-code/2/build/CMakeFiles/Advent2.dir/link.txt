@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/Advent2.dir/main.cpp.o -o Advent2 
